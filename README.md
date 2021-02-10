@@ -1,3 +1,3 @@
 ## Introduction
 
-This is a project investigating police related fatalities in the US. The data that I am using came from [data.world](https://data.world/data-society/fatal-police-shootings). I will be looking at descriptive statistics of fatality victims to determine underlying patterns. As I explore the data and create models to evaluate descriptive features, I will update this README.
+This is a project investigating police related fatalities in the US. The data that I am using came from [data.world](https://data.world/data-society/fatal-police-shootings). I will be looking at descriptive features of fatality victims in relation to overall population characteristics to draw conclusions from the data. I will be looking at numbers for race, gender, and age and how they have changed over time.
